@@ -13,6 +13,10 @@ like kicking/ banning the client.
 
 
 
+https://user-images.githubusercontent.com/81503247/152525924-b735b65e-1675-406e-93e2-291884abf9c1.mp4
+
+
+
 ## Deployment
 
 To run the server file:
