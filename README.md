@@ -2,7 +2,7 @@
 # CLI Based Chat Tool
 
 Building a command-line chat tool using Python. The tool will support multiple chat rooms
-and can be used to communicate with multiple users on a network. Also have admin features
+and can be used to communicate with multiple users on a network. Also it has admin features
 like kicking/ banning the client.
 
 
@@ -40,7 +40,7 @@ To run the client file use:
 
 ## Tech Stack
 
-- Pyhton
+- Python
 - Socket Programming
 - Multithreading
 
