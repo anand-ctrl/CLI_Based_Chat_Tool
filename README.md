@@ -65,6 +65,18 @@ To quit:
   /quit
 ```
 
+By joining server with username **admin**, you can:
+
+- kick
+
+```bash
+  /kick client_name
+```
+- ban
+```bash
+  /ban client_name
+```
+
 
 
 ## License
